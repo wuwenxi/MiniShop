@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="MiniShop:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/MiniShop_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="MiniShop" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="MiniShop/web/Web" />
+    </root>
+  </artifact>
+</component>
